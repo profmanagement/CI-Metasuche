@@ -1,0 +1,626 @@
+[
+ {
+  "id": "A21",
+  "title": "Frau Kleinschmidt / deutsche Dozentin / Ingenieurwissenschaften",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "chinesische Studierende",
+  "en": true
+ },
+ {
+  "id": "A37",
+  "title": "Frau Seiffert / deutsche Dozentin / Ingenieurwissenschaften",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "chinesische und taiwanesische Studierende",
+  "en": false
+ },
+ {
+  "id": "B20",
+  "title": "Frau Plötzer / deutsche Dozentin / Wirtschaftswissenschaften",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "chinesische Studentin",
+  "en": true
+ },
+ {
+  "id": "B23",
+  "title": "Herr Becher / deutscher Dozent / Informatik",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "chinesische Studentin",
+  "en": false
+ },
+ {
+  "id": "B25",
+  "title": "Frau Sommer / deutsche Dozentin / Romanistik",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "chinesische Studentin",
+  "en": false
+ },
+ {
+  "id": "B26",
+  "title": "Herr Söhnke / deutscher Dozent / Wirtschaftwissenschaften",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "zwei chinesische Studenten",
+  "en": false
+ },
+ {
+  "id": "B27",
+  "title": "Herr Jansen / deutscher Dozent / Wirtschaftsinformatik",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "drei chinesische Studenten",
+  "en": true
+ },
+ {
+  "id": "B29",
+  "title": "Herr Richter / deutscher Dozent / Wirtschaftswissenschaften",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "zwei chinesische Studenten",
+  "en": false
+ },
+ {
+  "id": "B31",
+  "title": "Liang / China / Wirtschaftswissenschaften",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "deutscher Dozent",
+  "en": false
+ },
+ {
+  "id": "C02",
+  "title": "Herr Becker / deutscher Dozent / Ingenieurwissenschaften",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "chinesische Studentin",
+  "en": false
+ },
+ {
+  "id": "C04",
+  "title": "Herr Löbner / deutscher Dozent / Wirtschaftswissenschaften",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "chinesische Studierende",
+  "en": false
+ },
+ {
+  "id": "C07",
+  "title": "Frau Jäger / deutsche Dozentin / Sozialwissenschaften",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "chinesische Studentinnen",
+  "en": false
+ },
+ {
+  "id": "C09",
+  "title": "Chan / China / Linguistik",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "deutsche Studierende",
+  "en": false
+ },
+ {
+  "id": "C12",
+  "title": "Maria / Deutschland / Kulturwissenschaften",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "chinesischer Student",
+  "en": false
+ },
+ {
+  "id": "C13",
+  "title": "Frederik / Deutschland / Wirtschaftswissenschaften",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "chinesische Studentin",
+  "en": false
+ },
+ {
+  "id": "C14",
+  "title": "Josefa / Deutschland / Fremdsprachen in der Erwachsenenbildung",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "chinesische Studentin",
+  "en": false
+ },
+ {
+  "id": "C31",
+  "title": "Herr Opitz / deutscher Dozent / Ingenieurwissenschaften",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "zwei chinesische Studenten",
+  "en": false
+ },
+ {
+  "id": "D10",
+  "title": "Mai / China / Germanistik",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "deutsche Studentin",
+  "en": true
+ },
+ {
+  "id": "D12",
+  "title": "Hong / China / Wirtschaftsinformatik",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "deutscher Student und seine Freundin",
+  "en": true
+ },
+ {
+  "id": "D14",
+  "title": "Katharina / Deutschland / Fremdsprachen in der Erwachsenenbildung",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "chinesische Studentin",
+  "en": true
+ },
+ {
+  "id": "D20",
+  "title": "Elisabeth / Deutschland / Sozialwissenschaften",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "chinesischer Student, chinesische Studentin",
+  "en": false
+ },
+ {
+  "id": "D24",
+  "title": "Marlene / Deutschland / Germanistik",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "chinesische Studentin",
+  "en": false
+ },
+ {
+  "id": "D26",
+  "title": "Stefanie / Deutschland / Sozialwissenschaften",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "chinesische Studierende",
+  "en": false
+ },
+ {
+  "id": "D30",
+  "title": "Cho / China / Mechatronics",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "deutsche Studierende",
+  "en": false
+ },
+ {
+  "id": "D31",
+  "title": "Ulrike / Deutschland / Wirtschaftswissenschaften",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "chinesische Studentin",
+  "en": false
+ },
+ {
+  "id": "D35",
+  "title": "Mark / Deutschland / Wirtschaftswissenschaften",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "chinesischer Student",
+  "en": true
+ },
+ {
+  "id": "D38",
+  "title": "Martha / Deutschland / Politikwissenschaften",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "chinesische Studentin",
+  "en": false
+ },
+ {
+  "id": "D56",
+  "title": "Sabine / Deutschland / Fremdsprachen in der Erwachsenenbildung",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "zwei chinesische Studentinnen",
+  "en": true
+ },
+ {
+  "id": "D58",
+  "title": "Johanna / Deutschland / Literaturwissenschaften",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "zwei chinesische Studenten",
+  "en": false
+ },
+ {
+  "id": "D59",
+  "title": "Charlotte / Deutschland / Literaturwissenschaft",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "chinesische Studentin",
+  "en": true
+ },
+ {
+  "id": "D60",
+  "title": "Han Jun / China / Wirtschaftsingenieurwesen",
+  "country": "China",
+  "region": "Asien",
+  "interaction": "deutscher Student",
+  "en": false
+ },
+ {
+  "id": "B17",
+  "title": "Kathi / Georgien / Germanistik",
+  "country": "Georgien",
+  "region": "Asien",
+  "interaction": "deutscher Dozent",
+  "en": false
+ },
+ {
+  "id": "A09",
+  "title": "Herr Meier / deutscher Dozent / Wirtschaftinformatik",
+  "country": "Indien",
+  "region": "Asien",
+  "interaction": "sechs indische Studierende",
+  "en": false
+ },
+ {
+  "id": "A36",
+  "title": "Frau Kohlhaas / deutsche Dozentin / Ingenieurwissenschaften",
+  "country": "Indien",
+  "region": "Asien",
+  "interaction": "indische Studierende",
+  "en": true
+ },
+ {
+  "id": "B03",
+  "title": "Farha / Indien / Linguistik",
+  "country": "Indien",
+  "region": "Asien",
+  "interaction": "deutscher Dozent",
+  "en": false
+ },
+ {
+  "id": "B18",
+  "title": "Herr Schröder / deutscher Dozent / Ingenieurwissenschaften",
+  "country": "Indien",
+  "region": "Asien",
+  "interaction": "indische Studentin",
+  "en": false
+ },
+ {
+  "id": "B28",
+  "title": "Herr Zimmermann / deutscher Dozent / Wirtschaftswissenschaften",
+  "country": "Indien",
+  "region": "Asien",
+  "interaction": "indischer Student",
+  "en": false
+ },
+ {
+  "id": "B32",
+  "title": "Herr Peters / Deutscher Dozent / Maschinenbau",
+  "country": "Indien",
+  "region": "Asien",
+  "interaction": "indischer Student",
+  "en": false
+ },
+ {
+  "id": "A19",
+  "title": "Margarita / Bulgarien / Studiengang unbekannt",
+  "country": "Bulgarien",
+  "region": "Europa",
+  "interaction": "deutsche Studierende",
+  "en": false
+ },
+ {
+  "id": "D41",
+  "title": "Juri / Bulgarien / Wirtschaftswissenschaften",
+  "country": "Bulgarien",
+  "region": "Europa",
+  "interaction": "deutsche Studierende",
+  "en": false
+ },
+ {
+  "id": "B04",
+  "title": "Stine / Dänemark / Germanistik",
+  "country": "Dänemark",
+  "region": "Europa",
+  "interaction": "deutscher Dozent",
+  "en": false
+ },
+ {
+  "id": "A35",
+  "title": "Dennis / Deutschland / Romanistik",
+  "country": "England",
+  "region": "Europa",
+  "interaction": "englische Studentin",
+  "en": true
+ },
+ {
+  "id": "C27",
+  "title": "Phil / England / Physik",
+  "country": "England",
+  "region": "Europa",
+  "interaction": "deutsche Studierende",
+  "en": false
+ },
+ {
+  "id": "D36",
+  "title": "Brian / England / Germanistik",
+  "country": "England",
+  "region": "Europa",
+  "interaction": "zwei deutsche Studenten",
+  "en": false
+ },
+ {
+  "id": "A03",
+  "title": "Maryvonne / Frankreich / Geschichte",
+  "country": "Frankreich",
+  "region": "Europa",
+  "interaction": "deutsche Dozentin",
+  "en": true
+ },
+ {
+  "id": "A14",
+  "title": "Martine / Frankreich / Geschichte",
+  "country": "Frankreich",
+  "region": "Europa",
+  "interaction": "deutsche Studentin",
+  "en": true
+ },
+ {
+  "id": "B22",
+  "title": "Juliette / Frankreich / Literaturwissenschaften",
+  "country": "Frankreich",
+  "region": "Europa",
+  "interaction": "deutscher Dozent",
+  "en": true
+ },
+ {
+  "id": "B30",
+  "title": "Hélène/ Frankreich / Germanistik",
+  "country": "Frankreich",
+  "region": "Europa",
+  "interaction": "deutscher Dozent",
+  "en": false
+ },
+ {
+  "id": "C15",
+  "title": "Hervé / Frankreich / Betriebswirtschaft",
+  "country": "Frankreich",
+  "region": "Europa",
+  "interaction": "deutsche Studierende",
+  "en": true
+ },
+ {
+  "id": "C23",
+  "title": "Pauline / Frankreich / Romanistik",
+  "country": "Frankreich",
+  "region": "Europa",
+  "interaction": "deutsche Studentin",
+  "en": false
+ },
+ {
+  "id": "D34",
+  "title": "Amélie / Frankreich / Romanistik",
+  "country": "Frankreich",
+  "region": "Europa",
+  "interaction": "deutsche Studierende",
+  "en": true
+ },
+ {
+  "id": "A20",
+  "title": "Federica / Italien / Sprachwissenschaft",
+  "country": "Italien",
+  "region": "Europa",
+  "interaction": "deutsche Studierende",
+  "en": false
+ },
+ {
+  "id": "A31",
+  "title": "Marco / Italien / Germanistik",
+  "country": "Italien",
+  "region": "Europa",
+  "interaction": "deutsche Studierende",
+  "en": true
+ },
+ {
+  "id": "C20",
+  "title": "Alberta / Italien / Jura",
+  "country": "Italien",
+  "region": "Europa",
+  "interaction": "deutsche Studentin",
+  "en": true
+ },
+ {
+  "id": "C26",
+  "title": "Gina / Italien / Germanistik",
+  "country": "Italien",
+  "region": "Europa",
+  "interaction": "deutsche Studierende",
+  "en": false
+ },
+ {
+  "id": "D17",
+  "title": "Giulia / Italien / Germanistik",
+  "country": "Italien",
+  "region": "Europa",
+  "interaction": "deutsche Studierende",
+  "en": true
+ },
+ {
+  "id": "A16",
+  "title": "Anna / Lettland / Germanistik",
+  "country": "Lettland",
+  "region": "Europa",
+  "interaction": "deutsche Dozenten",
+  "en": false
+ },
+ {
+  "id": "C25",
+  "title": "Biljana / Mazedonien / Linguistik",
+  "country": "Mazedonien",
+  "region": "Europa",
+  "interaction": "deutsche Studierende",
+  "en": false
+ },
+ {
+  "id": "D27",
+  "title": "Tatjana und Sofia / Moldawien / Fremdsprachen in der Erwachsenenbildung",
+  "country": "Moldavien",
+  "region": "Europa",
+  "interaction": "deutscher Student",
+  "en": true
+ },
+ {
+  "id": "A02",
+  "title": "Janusz / Polen / Germanistik",
+  "country": "Polen",
+  "region": "Europa",
+  "interaction": "deutsche Dozenten",
+  "en": false
+ },
+ {
+  "id": "A07",
+  "title": "Thomas / Deutschland / Wirtschaftswissenschaften",
+  "country": "Polen",
+  "region": "Europa",
+  "interaction": "polnische Studierende",
+  "en": true
+ },
+ {
+  "id": "A15",
+  "title": "Ewa / Polen / Germanistik",
+  "country": "Polen",
+  "region": "Europa",
+  "interaction": "deutsche Studierende",
+  "en": true
+ },
+ {
+  "id": "A27",
+  "title": "Agnieszka / Polen / Studiengang unbekannt",
+  "country": "Polen",
+  "region": "Europa",
+  "interaction": "deutsche Studierende und Dozenten",
+  "en": false
+ },
+ {
+  "id": "A38",
+  "title": "Joanna / Polen / Sozialwissenschaften",
+  "country": "Polen",
+  "region": "Europa",
+  "interaction": "deutsche Studierende",
+  "en": true
+ },
+ {
+  "id": "B01",
+  "title": "Agata / Polen / Fremdsprachen in der Erwachsenenbildung",
+  "country": "Polen",
+  "region": "Europa",
+  "interaction": "deutsche Dozenten",
+  "en": true
+ },
+ {
+  "id": "B02",
+  "title": "Karolina / Polen / Fremdsprachen in der Erwachsenenbildung",
+  "country": "Polen",
+  "region": "Europa",
+  "interaction": "deutsche Dozenten",
+  "en": true
+ },
+ {
+  "id": "D13",
+  "title": "Maja / Polen / Germanistik",
+  "country": "Polen",
+  "region": "Europa",
+  "interaction": "deutsche Studentin",
+  "en": true
+ },
+ {
+  "id": "D21",
+  "title": "Aleksandra / Polen / Germanistik",
+  "country": "Polen",
+  "region": "Europa",
+  "interaction": "deutsche Studierende",
+  "en": true
+ },
+ {
+  "id": "D39",
+  "title": "Petra / Deutschland / Sozialwissenschaften",
+  "country": "Polen",
+  "region": "Europa",
+  "interaction": "polnische Studentin",
+  "en": false
+ },
+ {
+  "id": "A32",
+  "title": "Susanne / Deutschland / Romanistik",
+  "country": "Portugal",
+  "region": "Europa",
+  "interaction": "portugiesische Studentin",
+  "en": true
+ },
+ {
+  "id": "B07",
+  "title": "Ilona / Rumänien / Volkswirtschaft",
+  "country": "Rumänien",
+  "region": "Europa",
+  "interaction": "deutscher Dozent",
+  "en": false
+ },
+ {
+  "id": "A08",
+  "title": "Nina / Russland / Fremdsprachen in der Erwachsenenbildung",
+  "country": "Russland",
+  "region": "Europa",
+  "interaction": "deutsche Studierende",
+  "en": true
+ },
+ {
+  "id": "A26",
+  "title": "Natalia / Russland / Fremdsprachen in der Erwachsenenbildung",
+  "country": "Russland",
+  "region": "Europa",
+  "interaction": "deutsche Studierende",
+  "en": true
+ },
+ {
+  "id": "B11",
+  "title": "Olga / Russland / Wirtschaftwissenschaften",
+  "country": "Russland",
+  "region": "Europa",
+  "interaction": "deutscher Dozent",
+  "en": false
+ },
+ {
+  "id": "B14",
+  "title": "Anastasia / Russland / Fremdsprachen in der Erwachsenenbildung",
+  "country": "Russland",
+  "region": "Europa",
+  "interaction": "deutsche Dozentin",
+  "en": false
+ },
+ {
+  "id": "C10",
+  "title": "Irina / Russland / Studiengang unbekannt",
+  "country": "Russland",
+  "region": "Europa",
+  "interaction": "deutsche Studierende",
+  "en": true
+ },
+ {
+  "id": "C17",
+  "title": "Bettina / Deutschland / Linguistik",
+  "country": "Russland",
+  "region": "Europa",
+  "interaction": "russische Studentin",
+  "en": false
+ },
+ {
+  "id": "D43",
+  "title": "Marius / Deutschland / Wirtschaftswissenschaften",
+  "country": "Russland",
+  "region": "Europa",
+  "interaction": "russischer Student",
+  "en": false
+ }
+]

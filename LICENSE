@@ -1,0 +1,72 @@
+Critical Incidents · Metasuche
+Copyright (c) 2026 — Lehrveranstaltung "Interkulturelle Kommunikation und Kompetenz", Hochschule Nordhausen
+
+Diese Arbeit (Code, Aufbau, Metadaten-Aufbereitung und Dokumentation dieses
+Projekts) ist als Open Educational Resource lizenziert unter:
+
+    Creative Commons Namensnennung – Nicht kommerziell –
+    Weitergabe unter gleichen Bedingungen 4.0 International
+    (CC BY-NC-SA 4.0)
+
+Vollständiger Lizenztext (rechtsverbindlich):
+    https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.de
+Allgemein verständliche Zusammenfassung:
+    https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
+
+SPDX-License-Identifier: CC-BY-NC-SA-4.0
+
+--------------------------------------------------------------------------------
+Kurzfassung (ersetzt nicht den vollständigen Lizenztext)
+--------------------------------------------------------------------------------
+
+Es ist Ihnen gestattet:
+
+  • Teilen — das Material in jedwedem Format oder Medium vervielfältigen
+    und weiterverbreiten.
+  • Bearbeiten — das Material remixen, verändern und darauf aufbauen.
+
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen, solange Sie sich an
+die Lizenzbedingungen halten.
+
+Unter folgenden Bedingungen:
+
+  • Namensnennung (BY) — Sie müssen angemessene Urheber- und Rechteangaben
+    machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen
+    vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und
+    Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht,
+    der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders.
+
+  • Nicht kommerziell (NC) — Sie dürfen das Material nicht für kommerzielle
+    Zwecke nutzen.
+
+  • Weitergabe unter gleichen Bedingungen (SA) — Wenn Sie das Material
+    remixen, verändern oder anderweitig direkt darauf aufbauen, dürfen Sie
+    Ihre Beiträge nur unter derselben Lizenz wie das Original verbreiten.
+
+  • Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln
+    oder technischen Verfahren einsetzen, die anderen rechtlich irgendetwas
+    untersagen, was die Lizenz erlaubt.
+
+Hinweise:
+
+  • Sie müssen sich nicht an die Lizenz halten bezüglich solcher Teile des
+    Materials, die gemeinfrei sind, oder soweit Ihre Nutzung durch eine
+    Ausnahme oder Schranke des Urheberrechts gedeckt ist.
+  • Es werden keine Garantien gegeben und es wird keine Gewähr geleistet. Die
+    Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für
+    die jeweilige Nutzung brauchen. Beispielsweise können andere Rechte wie
+    Persönlichkeits- und Datenschutzrechte zu beachten sein.
+
+--------------------------------------------------------------------------------
+WICHTIG — Geltungsbereich dieser Lizenz
+--------------------------------------------------------------------------------
+
+Diese CC-BY-NC-SA-4.0-Lizenz gilt ausschließlich für DIESES Projekt
+(Quellcode, Datenmodell/Metadaten-Aufbereitung, Oberfläche und Dokumentation).
+
+Sie gilt NICHT für die verlinkten Critical-Incident-Falltexte, PDFs, Webseiten
+und Datenbanken Dritter. Deren Inhalte unterliegen den jeweils eigenen
+Urheberrechten und Lizenzen ihrer Herausgeber (siehe README.md, Abschnitt
+"Quellen"). Diese Anwendung spiegelt keine fremden Inhalte, sondern verlinkt
+und erschließt sie nur mit Metadaten. Für die Verfügbarkeit, Richtigkeit und
+Vollständigkeit der verlinkten Originalquellen wird keine Gewähr übernommen.
