@@ -35,6 +35,15 @@ Es handelt sich um eine **HTML-Datei ohne Installation, ohne Server, ohne Intern
 2. Filtern und suchen (siehe unten).
 3. Über die Buttons auf einer Karte direkt zur Quelle springen.
 
+## Veröffentlichung über GitHub Pages
+
+Das Repository ist für GitHub Pages vorbereitet:
+
+- `index.html` leitet auf die Metasuche weiter, damit die App direkt über die Pages-Startseite erreichbar ist.
+- `.github/workflows/pages.yml` veröffentlicht den statischen Inhalt automatisch bei jedem Push auf `main`.
+
+In GitHub muss unter **Settings → Pages → Build and deployment** als Source **GitHub Actions** ausgewählt sein. Danach wird die Seite nach dem nächsten Push automatisch veröffentlicht.
+
 ## Funktionen
 
 - **Volltextsuche** über Titel, Land, Schlagwort, ID und Situation
